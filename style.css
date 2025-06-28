@@ -1,0 +1,12 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 20px;
+}
+pre {
+  background: #222;
+  color: #0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
